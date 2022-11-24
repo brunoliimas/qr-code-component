@@ -23,7 +23,6 @@ body {
 }
 main {
    background-color: var(---white);
-   /* box-shadow: 0px 0px 10px 0px var(--grayish-blue); */
    max-width: 320px;
    width: 100%;
    padding: 16px 16px 40px;
